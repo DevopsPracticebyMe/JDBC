@@ -22,7 +22,7 @@ The project uses the following dependencies, managed via Maven:
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DevopsPracticebyMe/JDBC>
 # Navigate to the project directory
 cd springjdbc
 # Configure the MySQL database
